@@ -1,0 +1,4 @@
+The latest version of this application with associated Python code, manual and example GIS data is available from https://github.com/GAP-CLoSR .
+
+
+Python code goes into this folder and is required for operation of the application.
